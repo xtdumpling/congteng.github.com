@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>XT的订阅列表</title>
+</head>
+<body>
+<outline text="A.Firmware" title="A.Firmware">
+<outline text="Beyond BIOS" title="Beyond BIOS" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=prostar" xmlUrl="http://blog.csdn.net/prostar/rss.aspx" />
+<outline text="&quot;新&quot;的開始" title="&quot;新&quot;的開始" type="ssr" htmlUrl="http://tspiao.blogspot.com/" xmlUrl="http://tspiao.blogspot.com/feeds/posts/default" />
+<outline text="1737&#x27;s space" title="1737&#x27;s space" type="ssr" htmlUrl="http://spikegreat.spaces.live.com/" xmlUrl="http://cid-7a2c19e2f6ff437d.users.api.live.net/Users(8803439834199704445)/Main?$format=rss20" />
+<outline text="BIOS" title="BIOS" type="ssr" htmlUrl="http://ravishankarg.blogspot.com/" xmlUrl="http://ravishankarg.blogspot.com/feeds/posts/default" />
+<outline text="BIOSism" title="BIOSism" type="ssr" htmlUrl="http://biosism.com" xmlUrl="http://biosism.com/feed" />
+<outline text="BIOS study" title="BIOS study" type="ssr" htmlUrl="http://computer.mblogger.cn/redboy/" xmlUrl="http://computer.mblogger.cn/redboy/rss.aspx" />
+<outline text="accessory2008" title="accessory2008" type="ssr" htmlUrl="http://hi.baidu.com/accessory2008" xmlUrl="http://hi.baidu.com/accessory2008/rss" />
+<outline text="BIOS Blog" title="BIOS Blog" type="ssr" htmlUrl="http://www.wimsbios.com/blog" xmlUrl="http://feeds.feedburner.com/BiosBlog" />
+<outline text="Dig into computer" title="Dig into computer" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=hgf1011" xmlUrl="http://feeds.feedsky.com/csdn.net/hgf1011" />
+<outline text="Eagle的BLOG" title="Eagle的BLOG" type="ssr" htmlUrl="http://blog.sina.com.cn/eaglechen1968" xmlUrl="http://blog.sina.com.cn/rss/eaglechen1968.xml" />
+<outline text="BIOS联盟论坛" title="BIOS联盟论坛" type="ssr" htmlUrl="http://www.biosren.com/index.php" xmlUrl="http://www.biosren.com/rss.php" />
+<outline text="Edward&#x27;s blog~~" title="Edward&#x27;s blog~~" type="ssr" htmlUrl="http://lafacetw.blogspot.com/" xmlUrl="http://lafacetw.blogspot.com/feeds/posts/default" />
+<outline text="Embedded Home - Ewing" title="Embedded Home - Ewing" type="ssr" htmlUrl="http://zigbee-ez4.blogspot.com/" xmlUrl="http://zigbee-ez4.blogspot.com/feeds/posts/default" />
+<outline text="coreboot developer" title="coreboot developer" type="ssr" htmlUrl="https://blogs.coreboot.org" xmlUrl="http://blogs.coreboot.org/feed/" />
+<outline text="Faieast" title="Faieast" type="ssr" htmlUrl="http://hi.baidu.com/childzzz" xmlUrl="http://hi.baidu.com/childzzz/rss" />
+<outline text="David Sern的記事本" title="David Sern的記事本" type="ssr" htmlUrl="http://davidsern.blogspot.com/" xmlUrl="http://davidsern.blogspot.com/feeds/posts/default" />
+<outline text="B生的部落格" title="B生的部落格" type="ssr" htmlUrl="http://colorben.blogspot.com/" xmlUrl="http://colorben.blogspot.com/feeds/posts/default" />
+<outline text="fudan_abc-Linux内核" title="fudan_abc-Linux内核" type="ssr" htmlUrl="http://blog.csdn.net/fudan_abc" xmlUrl="http://blog.csdn.net/fudan_abc/rss.aspx" />
+<outline text="Inside SW,FW HW" title="Inside SW,FW HW" type="ssr" htmlUrl="http://blog.donews.com/21cnbao" xmlUrl="http://blog.donews.com/21cnbao/rss.aspx" />
+<outline text="快乐生活，感受人生" title="快乐生活，感受人生" type="ssr" htmlUrl="http://www.cnitblog.com/yuhensong/" xmlUrl="http://www.cnitblog.com/yuhensong/rss.aspx" />
+<outline text="happybasic的Blog" title="happybasic的Blog" type="ssr" htmlUrl="http://happybasic.blog.163.com" xmlUrl="http://happybasic.blog.163.com/rss/" />
+<outline text="Hyins" title="Hyins" type="ssr" htmlUrl="http://hyins.blogspot.com/" xmlUrl="http://hyins.blogspot.com/feeds/posts/default" />
+<outline text="Instant Boot Blog" title="Instant Boot Blog" type="ssr" htmlUrl="http://blogs.phoenix.com/instant_boot_blog/" xmlUrl="http://blogs.phoenix.com/instant_boot_blog/atom.xml" />
+<outline text="George的BIOS心得" title="George的BIOS心得" type="ssr" htmlUrl="http://tw.myblog.yahoo.com/jw!0riGYLKeGRjo1.6L_8j.6k6g0g--" xmlUrl="http://tw.myblog.yahoo.com/jw!0riGYLKeGRjo1.6L_8j.6k6g0g--/rss" />
+<outline text="Leon Phoenix" title="Leon Phoenix" type="ssr" htmlUrl="http://iorlvskyo.blogspot.com/" xmlUrl="http://feeds.feedburner.com/LeonPhoenix" />
+<outline text="Firmware Encoding Index" title="Firmware Encoding Index" type="ssr" htmlUrl="http://www.feishare.com/" xmlUrl="http://www.feishare.com/rss" />
+<outline text="Hyper&#x27;s BLOG" title="Hyper&#x27;s BLOG" type="ssr" htmlUrl="http://www.wretch.cc/blog/hyper0672" xmlUrl="http://www.wretch.cc/blog/hyper0672&amp;rss20=1" />
+<outline text="Tom的生活和技術" title="Tom的生活和技術" type="ssr" htmlUrl="http://tomleung.spaces.live.com/" xmlUrl="http://tomleung.spaces.live.com/feed.rss" />
+<outline text="The Invisible Things Lab&#x27;s" title="The Invisible Things Lab&#x27;s" type="ssr" htmlUrl="http://theinvisiblethings.blogspot.com/" xmlUrl="http://theinvisiblethings.blogspot.com/feeds/posts/default" />
+<outline text="UEFI" title="UEFI" type="ssr" htmlUrl="http://uefi.blogspot.com/" xmlUrl="http://uefi.blogspot.com/feeds/posts/default" />
+<outline text="syf442" title="syf442" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=syf442" xmlUrl="http://feeds.feedsky.com/csdn.net/syf442" />
+<outline text="RU.EXE" title="RU.EXE" type="ssr" htmlUrl="http://ruexe.blogspot.com/" xmlUrl="http://ruexe.blogspot.com/feeds/posts/default" />
+<outline text="Undocumented BIOS" title="Undocumented BIOS" type="ssr" htmlUrl="http://ubios.blogspot.com/" xmlUrl="http://ubios.blogspot.com/feeds/posts/default" />
+<outline text="The BIOS Blog" title="The BIOS Blog" type="ssr" htmlUrl="http://bioshacking.blogspot.com/" xmlUrl="http://bioshacking.blogspot.com/feeds/posts/default" />
+<outline text="Software Enablement" title="Software Enablement" type="ssr" htmlUrl="http://forums.arm.com/index.php?app=blog&amp;module=showblog&amp;blogid=7" xmlUrl="http://feeds.feedburner.com/ARMBlogsSW" />
+<outline text="Simple Firmware Interface" title="Simple Firmware Interface" type="ssr" htmlUrl="https://simplefirmware.org" xmlUrl="http://simplefirmware.org/rss.xml" />
+<outline text="ROM BIOS Emulator" title="ROM BIOS Emulator" type="ssr" htmlUrl="http://www.rombiosemulator.net/" xmlUrl="http://rombiosemulator.blogspot.com/feeds/posts/default" />
+<outline text="XiCao i am 007" title="XiCao i am 007" type="ssr" htmlUrl="http://hi.baidu.com/xicao54007" xmlUrl="http://hi.baidu.com/xicao54007/rss" />
+<outline text="Xiaoxia&#x27;s Blog" title="Xiaoxia&#x27;s Blog" type="ssr" htmlUrl="http://home.xxsyzx.com/home/" xmlUrl="http://home.xxsyzx.com/home/rss" />
+<outline text="wj0225的专栏" title="wj0225的专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=wj0225" xmlUrl="http://feeds.feedsky.com/csdn.net/wj0225" />
+<outline text="W:=R(0|1)" title="W:=R(0|1)" type="ssr" htmlUrl="http://hi.baidu.com/quick1" xmlUrl="http://hi.baidu.com/quick1/rss" />
+<outline text="Wei Chong&#x27;s Blog" title="Wei Chong&#x27;s Blog" type="ssr" htmlUrl="http://weichong78.blogspot.com/" xmlUrl="http://weichong78.blogspot.com/feeds/posts/default" />
+<outline text="Windrose Blog" title="Windrose Blog" type="ssr" htmlUrl="http://dongwei67.blogspot.com/" xmlUrl="http://dongwei67.blogspot.com/feeds/posts/default" />
+<outline text="Vincent Zimmer&#x27;s blog" title="Vincent Zimmer&#x27;s blog" type="ssr" htmlUrl="http://vzimmer.blogspot.com/" xmlUrl="http://vzimmer.blogspot.com/feeds/posts/default" />
+<outline text="Work" title="Work" type="ssr" htmlUrl="http://jianggmulab.blogspot.com/" xmlUrl="http://jianggmulab.blogspot.com/feeds/posts/default" />
+<outline text="x86asm.net" title="x86asm.net" type="ssr" htmlUrl="http://x86asm.net" xmlUrl="http://x86asm.net/atom.xml" />
+<outline text="Why so many specs?" title="Why so many specs?" type="ssr" htmlUrl="http://hunterx0206.blogspot.com/" xmlUrl="http://hunterx0206.blogspot.com/feeds/posts/default" />
+<outline text="小華的部落格" title="小華的部落格" type="ssr" htmlUrl="http://biosengineer.blogspot.com/" xmlUrl="http://biosengineer.blogspot.com/feeds/posts/default" />
+<outline text="时间碎片" title="时间碎片" type="ssr" htmlUrl="http://blog.chinaitlab.com/?uid-79640" xmlUrl="http://blog.chinaitlab.com/79640/action-rss-type-blog.html" />
+<outline text="懒人有禅" title="懒人有禅" type="ssr" htmlUrl="http://www.lanrenux.com" xmlUrl="http://www.lanrenux.com/?feed=rss2" />
+<outline text="我选择，我喜欢" title="我选择，我喜欢" type="ssr" htmlUrl="http://lanrandy.blog.sohu.com/" xmlUrl="http://lanrandy.blog.sohu.com/rss" />
+<outline text="小叹的学习园地" title="小叹的学习园地" type="ssr" htmlUrl="http://www.cnblogs.com/okwary/" xmlUrl="http://www.cnblogs.com/okwary/rss.aspx" />
+<outline text="小禾的部落格" title="小禾的部落格" type="ssr" htmlUrl="http://diy123.blogspot.com/" xmlUrl="http://diy123.blogspot.com/feeds/posts/default" />
+<outline text="庸人隨手記" title="庸人隨手記" type="ssr" htmlUrl="http://jkwolf1975.blogspot.com/" xmlUrl="http://jkwolf1975.blogspot.com/feeds/posts/default" />
+<outline text="平凡是真" title="平凡是真" type="ssr" htmlUrl="http://hi.baidu.com/%BF%E1%CE%D2%D2%BB%B4%FA" xmlUrl="http://hi.baidu.com/%BF%E1%CE%D2%D2%BB%B4%FA/rss" />
+<outline text="江尧的专栏" title="江尧的专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=xtdumpling" xmlUrl="http://blog.csdn.net/xtdumpling/rss.aspx" />
+<outline text="林健的BLOG" title="林健的BLOG" type="ssr" htmlUrl="http://blog.linjian.org" xmlUrl="http://blog.linjian.org/?feed=rss2" />
+<outline text="杨会楠的博客" title="杨会楠的博客" type="ssr" htmlUrl="http://yanghuinan2006.blog.163.com" xmlUrl="http://yanghuinan2006.blog.163.com/rss/" />
+<outline text="肢解BIOS" title="肢解BIOS" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=lightseed" xmlUrl="http://feeds.feedsky.com/csdn.net/lightseed" />
+<outline text="組合語言  討論區" title="組合語言  討論區" type="ssr" htmlUrl="http://www.programmer-club.com.tw/pc2020v5/Forum/ForumN.asp?board_pc2020=assembly" xmlUrl="http://www.programmer-club.com.tw/rss/assembly.xml" />
+<outline text="枫，呼啸过" title="枫，呼啸过" type="ssr" htmlUrl="http://kinskun.blogspot.com/" xmlUrl="http://kinskun.blogspot.com/feeds/posts/default" />
+<outline text="河馬工作室" title="河馬工作室" type="ssr" htmlUrl="http://riverhippo.blogspot.com/" xmlUrl="http://riverhippo.blogspot.com/feeds/posts/default" />
+<outline text="老王的EFI" title="老王的EFI" type="ssr" htmlUrl="http://myefi.blogspot.com/" xmlUrl="http://myefi.blogspot.com/feeds/posts/default" />
+<outline text="異次元空間" title="異次元空間" type="ssr" htmlUrl="http://cshihhsu.blogspot.com/" xmlUrl="http://cshihhsu.blogspot.com/feeds/posts/default" />
+<outline text="那些日子" title="那些日子" type="ssr" htmlUrl="http://www.cublog.cn/u2/66786/" xmlUrl="http://blog.chinaunix.net/u/rss.php?id=66786" />
+<outline text="跃强&#x27;s space" title="跃强&#x27;s space" type="ssr" htmlUrl="http://conolzhu.spaces.live.com/" xmlUrl="http://cid-740aa5885c191834.users.api.live.net/Users(8361677663246030900)/Main?$format=rss20" />
+<outline text="願~~" title="願~~" type="ssr" htmlUrl="http://kunyichen.wordpress.com" xmlUrl="http://cid-30484cda412a1d29.users.api.live.net/Users(3479115212423568681)/Main?$format=rss20" />
+<outline text="计匠网论坛" title="计匠网论坛" type="ssr" htmlUrl="http://www.ufoit.com/index.php" xmlUrl="http://www.ufoit.com/bbs/rss.php" />
+<outline text="阿~~-y朙的不小格" title="阿~~-y朙的不小格" type="ssr" htmlUrl="http://kokoro2000.blogspot.com/" xmlUrl="http://kokoro2000.blogspot.com/feeds/posts/default" />
+<outline text="酷我一代" title="酷我一代" type="ssr" htmlUrl="http://www.cnblogs.com/kuwoyidai/" xmlUrl="http://www.cnblogs.com/kuwoyidai/rss.aspx" />
+<outline text="路雷米的博客" title="路雷米的博客" type="ssr" htmlUrl="http://luleimi.blog.163.com" xmlUrl="http://luleimi.blog.163.com/rss/" />
+<outline text="JFo Drivel" title="JFo Drivel" type="ssr" htmlUrl="http://jeremy-foshee.blogspot.com/" xmlUrl="http://jeremy-foshee.blogspot.com/feeds/posts/default" />
+<outline text="Phoenix Technologies" title="Phoenix Technologies" type="ssr" htmlUrl="http://blogs.phoenix.com/phoenix_technologies_bios/" xmlUrl="http://feeds.feedburner.com/PhoenixBiosBlog" />
+<outline text="OutDoor" title="OutDoor" type="ssr" htmlUrl="http://neilz1978.spaces.live.com/" xmlUrl="http://neilz1978.spaces.live.com/feed.rss" />
+<outline text="lm_tom的技术人生" title="lm_tom的技术人生" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=lm_tom" xmlUrl="http://feeds.feedsky.com/csdn.net/lm_tom" />
+<outline text="MAN" title="MAN" type="ssr" htmlUrl="http://binnwang.blog.163.com" xmlUrl="http://binnwang.blog.163.com/rss/" />
+<outline text="MarkTsai EFI/BIOS學習" title="MarkTsai EFI/BIOS學習" type="ssr" htmlUrl="http://marktsai0316-biosstudy.blogspot.com/" xmlUrl="http://marktsai0316-biosstudy.blogspot.com/feeds/posts/default" />
+<outline text="mysky0407的专栏" title="mysky0407的专栏" type="ssr" htmlUrl="http://blog.csdn.net/mysky0407/" xmlUrl="http://feeds.feedsky.com/csdn.net/mysky0407" />
+<outline text="Matthew Garrett" title="Matthew Garrett" type="ssr" htmlUrl="http://mjg59.dreamwidth.org/" xmlUrl="http://mjg59.dreamwidth.org/data/rss" />
+<outline text="No Best,Just Better" title="No Best,Just Better" type="ssr" htmlUrl="http://www.cnblogs.com/harber/" xmlUrl="http://feed.cnblogs.com/blog/u/31586/rss" />
+<outline text="史丹利部落格" title="史丹利部落格" type="ssr" htmlUrl="http://stenlyho.blogspot.com/" xmlUrl="http://stenlyho.blogspot.com/feeds/posts/default" />
+<outline text="刘洪涛的专栏" title="刘洪涛的专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=hongtao_liu" xmlUrl="http://feeds.feedsky.com/csdn.net/hongtao_liu" />
+<outline text="博思雅苑" title="博思雅苑" type="ssr" htmlUrl="http://www.aeroson.cn/" xmlUrl="http://www.aeroson.cn/feed" />
+<outline text="奔跑中.........." title="奔跑中.........." type="ssr" htmlUrl="http://guozhangping.blog.sohu.com/" xmlUrl="http://guozhangping.blog.sohu.com/rss" />
+<outline text="做口碑的工程師" title="做口碑的工程師" type="ssr" htmlUrl="http://500.wpa.tw/" xmlUrl="http://feeds2.feedburner.com/davihuan" />
+<outline text="初心者之家" title="初心者之家" type="ssr" htmlUrl="http://boy-asmc.blogspot.com/" xmlUrl="http://boy-asmc.blogspot.com/feeds/posts/default" />
+<outline text="冷靜" title="冷靜" type="ssr" htmlUrl="http://bluequiet.blogspot.com/" xmlUrl="http://bluequiet.blogspot.com/feeds/posts/default" />
+<outline text="从UEFI到IOS" title="从UEFI到IOS" type="ssr" htmlUrl="http://blog.sina.com.cn/u/1824441727" xmlUrl="http://blog.sina.com.cn/rss/1824441727.xml" />
+<outline text="学习，思考，记录，分享。" title="学习，思考，记录，分享。" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=livelylittlefish" xmlUrl="http://blog.csdn.net/livelylittlefish/rss.aspx" />
+<outline text="C++博客_djx_zh" title="C++博客_djx_zh" type="ssr" htmlUrl="http://www.cppblog.com/djxzh/" xmlUrl="http://feed.cnblogs.com/cppblog/djxzh" />
+<outline text="Chris&#x27;s Space" title="Chris&#x27;s Space" type="ssr" htmlUrl="https://chrislee.pro" xmlUrl="http://chrislee.pro/feed/" />
+<outline text="RandyRhoads的专栏" title="RandyRhoads的专栏" type="ssr" htmlUrl="http://blog.csdn.net/RandyRhoads/" xmlUrl="http://feeds.feedsky.com/csdn.net/randyrhoads" />
+<outline text="SYS$OUTPUT" title="SYS$OUTPUT" type="ssr" htmlUrl="http://osdevnotes.blogspot.com/" xmlUrl="http://osdevnotes.blogspot.com/feeds/posts/default" />
+<outline text="sunil" title="sunil" type="ssr" htmlUrl="http://sunil1117.blogspot.com/" xmlUrl="http://sunil1117.blogspot.com/feeds/posts/default" />
+<outline text="XT的专栏" title="XT的专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=xtdumpling" xmlUrl="http://feeds.feedsky.com/csdn.net/xtdumpling" />
+<outline text="法蘭克的BIOS筆記" title="法蘭克的BIOS筆記" type="ssr" htmlUrl="http://frankuefi.blogspot.com/" xmlUrl="http://frankuefi.blogspot.com/feeds/posts/default" />
+<outline text="博客园_linux" title="博客园_linux" type="ssr" htmlUrl="http://www.cnblogs.com/hoys/" xmlUrl="http://www.cnblogs.com/hoys/rss.aspx" />
+<outline text="C++博客_djx_zh" title="C++博客_djx_zh" type="ssr" htmlUrl="http://www.cppblog.com/djxzh/" xmlUrl="http://www.cppblog.com/djxzh/rss.aspx" />
+<outline text="EFI BIOS Concept" title="EFI BIOS Concept" type="ssr" htmlUrl="http://elvischen1118.blogspot.com/" xmlUrl="http://feeds.feedburner.com/EfiBiosConcept" />
+<outline text="學習的紀錄 :: 隨意窩 Xuite ::" title="學習的紀錄 :: 隨意窩 Xuite ::" type="ssr" htmlUrl="http://blog.xuite.net/meloscheng/note" xmlUrl="http://blog.xuite.net/meloscheng/note/rss.xml" />
+<outline text="野山羊隨手紀錄" title="野山羊隨手紀錄" type="ssr" htmlUrl="http://samfreetime.blogspot.com/" xmlUrl="http://feeds.feedburner.com/blogspot/ejUWm" />
+<outline text="~贫而乐富而礼~" title="~贫而乐富而礼~" type="ssr" htmlUrl="http://blog.sina.com.cn/woaiyiyicheng" xmlUrl="http://blog.sina.com.cn/rss/1704524247.xml" />
+<outline text="邱小新の單晶片筆記" title="邱小新の單晶片筆記" type="ssr" htmlUrl="http://jyhshin3.blogspot.com/" xmlUrl="http://jyhshin3.blogspot.com/feeds/posts/default" />
+<outline text="aiwen_" title="aiwen_" type="ssr" htmlUrl="http://blog.sina.com.cn/u/2259352047" xmlUrl="http://blog.sina.com.cn/rss/2259352047.xml" />
+<outline text="长颈鹿的下午茶" title="长颈鹿的下午茶" type="ssr" htmlUrl="http://www.giraffetea.com" xmlUrl="http://www.giraffetea.com/?feed=rss2" />
+<outline text="qianlun" title="qianlun" type="ssr" htmlUrl="https://blog.csdn.net/shanghaiqianlun" xmlUrl="http://blog.csdn.net/shanghaiqianlun/rss/list" />
+<outline text="ce123" title="ce123" type="ssr" htmlUrl="https://blog.csdn.net/ce123" xmlUrl="http://blog.csdn.net/ce123/rss/list" />
+<outline text="/dev/ttyS0" title="/dev/ttyS0" type="ssr" htmlUrl="http://www.devttys0.com" xmlUrl="http://www.devttys0.com/feed/" />
+<outline text="Tater" title="Tater" type="ssr" htmlUrl="http://litesblog.sinaapp.com/" xmlUrl="http://www.lijingquan.net/rss.php" />
+<outline text="龙芯论坛 - 龙芯CPU技术" title="龙芯论坛 - 龙芯CPU技术" type="ssr" htmlUrl="http://www.lemote.com/bbs/forumdisplay.php?fid=4" xmlUrl="http://www.lemote.com/bbs/rss.php?fid=4&amp;auth=AVcCbQBsX1dQVlAHUQo" />
+<outline text="UEFI, Framework and EDK" title="UEFI, Framework and EDK" type="ssr" htmlUrl="http://blog.csdn.net/efibios/" xmlUrl="http://feeds.feedsky.com/csdn.net/efibios" />
+<outline text="Introduce the latest firmware technology UEFI/EFI - Firmware Encoding Index" title="Introduce the latest firmware technology UEFI/EFI - Firmware Encoding Index" type="ssr" htmlUrl="http://www.feishare.com/" xmlUrl="http://www.feishare.com//rss" />
+<outline text="Linux/Makefile/Kernel" title="Linux/Makefile/Kernel" type="ssr" htmlUrl="http://www.cublog.cn/u/9858/" xmlUrl="http://blog.chinaunix.net/u/rss.php?id=9858" />
+<outline text="Melthon" title="Melthon" type="ssr" htmlUrl="http://25blog.chinaunix.net/uid/20656154.html" xmlUrl="http://blog.chinaunix.net/blog/rss/uid/20656154" />
+<outline text="海枫的专栏" title="海枫的专栏" type="ssr" htmlUrl="http://blog.csdn.net/linyt" xmlUrl="http://blog.csdn.net/linyt/rss.aspx" />
+<outline text="守候心田" title="守候心田" type="ssr" htmlUrl="http://blog.chinaunix.net/uid/27411029.html" xmlUrl="http://blog.chinaunix.net/blog/rss/uid/27411029.html" />
+<outline text="uefi_artisan" title="uefi_artisan" type="ssr" htmlUrl="https://blog.csdn.net/robinsongsog" xmlUrl="http://blog.csdn.net/robinsongsog/rss/list" />
+<outline text="My aimful life" title="My aimful life" type="ssr" htmlUrl="http://blog.cr4.sh/" xmlUrl="http://blog.cr4.sh/feeds/posts/default" /></outline><outline text="B.Interest" title="B.Interest">
+<outline text="月光博客" title="月光博客" type="ssr" htmlUrl="http://www.williamlong.info/" xmlUrl="http://feed.williamlong.info" />
+<outline text="aw&#x27;s blog" title="aw&#x27;s blog" type="ssr" htmlUrl="http://www.awflasher.com/blog" xmlUrl="http://feed.awflasher.com" />
+<outline text="CSK.Blog" title="CSK.Blog" type="ssr" htmlUrl="http://www.csksoft.net/blog/" xmlUrl="http://www.csksoft.net/blog/rss.xml" />
+<outline text="bloodkain" title="bloodkain" type="ssr" htmlUrl="http://www.cublog.cn/u3/99959/" xmlUrl="http://blog.chinaunix.net/u/rss.php?id=99959" />
+<outline text="bbcukchina.com | 英语教学" title="bbcukchina.com | 英语教学" type="ssr" htmlUrl="http://www.bbc.com/ukchina/simp/elt/index.xml" xmlUrl="http://www.bbc.co.uk/ukchina/simp/elt/index.xml" />
+<outline text="Computerzz helper" title="Computerzz helper" type="ssr" htmlUrl="http://computerhelperzz.blogspot.com/" xmlUrl="http://computerhelperzz.blogspot.com/feeds/posts/default" />
+<outline text="danxuezx的专栏" title="danxuezx的专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=danxuezx" xmlUrl="http://feeds.feedsky.com/csdn.net/danxuezx" />
+<outline text="Daniel and Grace Kim, Mission-Zambia" title="Daniel and Grace Kim, Mission-Zambia" type="ssr" htmlUrl="https://danielgracekimmissionzambia.wordpress.com" xmlUrl="http://danielgracekimmissionzambia.wordpress.com/feed/" />
+<outline text="An Endless Xploration.." title="An Endless Xploration.." type="ssr" htmlUrl="http://darmawan-salihun.blogspot.com/" xmlUrl="http://darmawan-salihun.blogspot.com/feeds/posts/default" />
+<outline text="Gustavo Duarte" title="Gustavo Duarte" type="ssr" htmlUrl="http://duartes.org/gustavo/blog/" xmlUrl="http://feeds.feedburner.com/GustavoDuarte" />
+<outline text="C++博客-那谁的技术博客" title="C++博客-那谁的技术博客" type="ssr" htmlUrl="http://www.cppblog.com/" xmlUrl="http://www.cppblog.com/converse/rss.aspx" />
+<outline text="DOS编程技术" title="DOS编程技术" type="ssr" htmlUrl="http://hengch.blog.163.com" xmlUrl="http://hengch.blog.163.com/rss/" />
+<outline text="codedump" title="codedump" type="ssr" htmlUrl="http://www.codedump.info" xmlUrl="http://feed.feedsky.com/codedump" />
+<outline text="Chrome Story" title="Chrome Story" type="ssr" htmlUrl="http://www.chromestory.com" xmlUrl="http://feeds.feedburner.com/ChromeStory" />
+<outline text="Hex blog" title="Hex blog" type="ssr" htmlUrl="http://www.hexblog.com" xmlUrl="http://hexblog.com/atom.xml" />
+<outline text="Holly.Wong" title="Holly.Wong" type="ssr" htmlUrl="http://happydaychina.spaces.live.com/" xmlUrl="http://happydaychina.spaces.live.com/feed.rss" />
+<outline text="ForeverBell[PG]" title="ForeverBell[PG]" type="ssr" htmlUrl="http://hi.baidu.com/foreverbell%5F" xmlUrl="http://hi.baidu.com/foreverbell_/rss" />
+<outline text="Eli Bendersky&#x27;s website" title="Eli Bendersky&#x27;s website" type="ssr" htmlUrl="https://eli.thegreenplace.net/" xmlUrl="http://eli.thegreenplace.net/feed/" />
+<outline text="Dr.Dobb&#x27;s Embedded Systems Articles" title="Dr.Dobb&#x27;s Embedded Systems Articles" type="ssr" htmlUrl="http://www.drdobbs.com//embedded-systems" xmlUrl="http://www.drdobbs.com/rss/embeddedSys.xml" />
+<outline text="HelloGcc Working Group" title="HelloGcc Working Group" type="ssr" htmlUrl="http://hellogcc.blogbus.com" xmlUrl="http://hellogcc.blogbus.com/index.rdf" />
+<outline text="Footprints of Zhu Naisong(Vinx Zhu)" title="Footprints of Zhu Naisong(Vinx Zhu)" type="ssr" htmlUrl="http://zhunaisong.com" xmlUrl="http://feed.feedsky.com/zhunaisong" />
+<outline text="Feature Enable" title="Feature Enable" type="ssr" htmlUrl="http://feature-enable.blogspot.com/" xmlUrl="http://feature-enable.blogspot.com/feeds/posts/default" />
+<outline text="iceboy[PG]" title="iceboy[PG]" type="ssr" htmlUrl="http://hi.baidu.com/iceboy%5F" xmlUrl="http://hi.baidu.com/iceboy_/rss" />
+<outline text="IT小民工" title="IT小民工" type="ssr" htmlUrl="http://blog.sina.com.cn/ggbondgt" xmlUrl="http://blog.sina.com.cn/rss/ggbondgt.xml" />
+<outline text="Jeff Bonwick&#x27;s Blog" title="Jeff Bonwick&#x27;s Blog" type="ssr" htmlUrl="http://blogs.oracle.com/bonwick/en_US/" xmlUrl="http://blogs.sun.com/bonwick/en_US/feed/entries/atom" />
+<outline text="MSDN 我告诉你" title="MSDN 我告诉你" type="ssr" htmlUrl="http://msdn.itellyou.cn" xmlUrl="http://feed.feedsky.com/MSDN_l1gm" />
+<outline text="liuhui998" title="liuhui998" type="ssr" htmlUrl="http://liuhui998.com/atom.xml" xmlUrl="http://liuhui998.com/feed/" />
+<outline text="IT博客-linux" title="IT博客-linux" type="ssr" htmlUrl="http://www.cnitblog.com/seedshopezhong/" xmlUrl="http://www.cnitblog.com/seedshopezhong/rss.aspx" />
+<outline text="punk" title="punk" type="ssr" htmlUrl="http://hi.baidu.com/thesum" xmlUrl="http://hi.baidu.com/thesum/rss" />
+<outline text="Random Taste" title="Random Taste" type="ssr" htmlUrl="http://randomtaste.appspot.com/" xmlUrl="http://feeds2.feedburner.com/kuangyuheng" />
+<outline text="Piriform" title="Piriform" type="ssr" htmlUrl="http://www.piriform.com" xmlUrl="http://feeds2.feedburner.com/piriform" />
+<outline text="riusksk&#x27;s blog" title="riusksk&#x27;s blog" type="ssr" htmlUrl="http://hi.baidu.com/riusksk" xmlUrl="http://hi.baidu.com/riusksk/rss" />
+<outline text="Navrang&#x27;s Blog" title="Navrang&#x27;s Blog" type="ssr" htmlUrl="http://navrangblog.blogspot.com/" xmlUrl="http://navrangblog.blogspot.com/feeds/posts/default" />
+<outline text="Procrastineering - Project blog for Johnny Chung Lee" title="Procrastineering - Project blog for Johnny Chung Lee" type="ssr" htmlUrl="http://procrastineering.blogspot.com/" xmlUrl="http://procrastineering.blogspot.com/feeds/posts/default" />
+<outline text="op111.net" title="op111.net" type="ssr" htmlUrl="https://op111.net" xmlUrl="http://feeds.feedburner.com/op111net" />
+<outline text="Planet of Woodpecker" title="Planet of Woodpecker" type="ssr" htmlUrl="https://woodpecker.org.cn/planet/atom.xml" xmlUrl="http://woodpecker.org.cn/planet/atom.xml" />
+<outline text="Musings" title="Musings" type="ssr" htmlUrl="https://blog.fpmurphy.com" xmlUrl="http://blog.fpmurphy.com/feed" />
+<outline text="Vincent F. Yang(杨枫)的CSDN专栏" title="Vincent F. Yang(杨枫)的CSDN专栏" type="ssr" htmlUrl="http://blog.csdn.net/vincentyang" xmlUrl="http://blog.csdn.net/VincentYang/rss.aspx" />
+<outline text="Swaroop C H - India, Technology, Life Skills" title="Swaroop C H - India, Technology, Life Skills" type="ssr" htmlUrl="http://www.swaroopch.com/feed/" xmlUrl="http://feeds.feedburner.com/SwaroopCH" />
+<outline text="Sailing-PCI system" title="Sailing-PCI system" type="ssr" htmlUrl="http://blog.sina.com.cn/sailingxr" xmlUrl="http://blog.sina.com.cn/rss/1685243084.xml" />
+<outline text="The Man In The Mirror" title="The Man In The Mirror" type="ssr" htmlUrl="http://d-up.org/man" xmlUrl="http://d-up.org/man/feed/" />
+<outline text="Sigma" title="Sigma" type="ssr" htmlUrl="http://www.sigma.me" xmlUrl="http://feeds2.feedburner.com/lifewithbugs" />
+<outline text="sunchiahome&#x27;s blog" title="sunchiahome&#x27;s blog" type="ssr" htmlUrl="http://benjr.tw/blog/1" xmlUrl="http://benjr.tw/blog/1/feed" />
+<outline text="Technicus stultissimus" title="Technicus stultissimus" type="ssr" htmlUrl="http://tecnicambalandia.blogspot.com/" xmlUrl="http://tecnicambalandia.blogspot.com/feeds/posts/default" />
+<outline text="人月神话的BLOG" title="人月神话的BLOG" type="ssr" htmlUrl="http://blog.sina.com.cn/cmmi" xmlUrl="http://blog.sina.com.cn/rss/1228571733.xml" />
+<outline text="WHQL徽标认证" title="WHQL徽标认证" type="ssr" htmlUrl="http://hicwhql.spaces.live.com/" xmlUrl="http://hicwhql.spaces.live.com/feed.rss" />
+<outline text="WHQL测试和WHQL认证个人博客" title="WHQL测试和WHQL认证个人博客" type="ssr" htmlUrl="https://whqlcn.wordpress.com" xmlUrl="http://ctcwhql.spaces.live.com/feed.rss" />
+<outline text="【国学堂】官方博客" title="【国学堂】官方博客" type="ssr" htmlUrl="http://blog.sina.com.cn/ldgxt" xmlUrl="http://blog.sina.com.cn/rss/ldgxt.xml" />
+<outline text="zyl910的专栏" title="zyl910的专栏" type="ssr" htmlUrl="http://blog.csdn.net/zyl910/" xmlUrl="http://feeds.feedsky.com/csdn.net/zyl910" />
+<outline text="wuhanghanker的博客" title="wuhanghanker的博客" type="ssr" htmlUrl="http://blog.sina.com.cn/wuhanghanker" xmlUrl="http://blog.sina.com.cn/rss/wuhanghanker.xml" />
+<outline text="Xiaoxia[PG]" title="Xiaoxia[PG]" type="ssr" htmlUrl="http://xiaoxia.org" xmlUrl="http://xiaoxia.org/?feed=rss2" />
+<outline text="zx_wing" title="zx_wing" type="ssr" htmlUrl="http://blog.chinaunix.net/space.php?uid=20499746" xmlUrl="http://home.chinaunix.com/rss.php?uid=20499746" />
+<outline text="zx_wing" title="zx_wing" type="ssr" htmlUrl="http://blog.chinaunix.net/space.php?uid=20499746" xmlUrl="http://blog.chinaunix.net/rss.php?uid=20499746" />
+<outline text="开复和他的学生网" title="开复和他的学生网" type="ssr" htmlUrl="http://blog.sina.com.cn/kaifulee" xmlUrl="http://blog.sina.com.cn/kaifulee" />
+<outline text="刘未鹏 | Mind Hacks" title="刘未鹏 | Mind Hacks" type="ssr" htmlUrl="http://mindhacks.cn" xmlUrl="http://mindhacks.cn/feed/" />
+<outline text="冬吴相对论" title="冬吴相对论" type="ssr" htmlUrl="http://blog.sina.com.cn/dongwutalkshow" xmlUrl="http://blog.sina.com.cn/rss/1591039221.xml" />
+<outline text="吴伯凡·21世纪商业评论" title="吴伯凡·21世纪商业评论" type="ssr" htmlUrl="http://blog.sina.com.cn/21cbr" xmlUrl="http://blog.sina.com.cn/rss/1341205263.xml" />
+<outline text="弯曲评论" title="弯曲评论" type="ssr" htmlUrl="http://www.tektalk.org" xmlUrl="http://www.tektalk.org/feed/" />
+<outline text="小伟的布拉格" title="小伟的布拉格" type="ssr" htmlUrl="http://blog.wbpluto.com" xmlUrl="http://blog.wbpluto.com/feed" />
+<outline text="冰剑博客" title="冰剑博客" type="ssr" htmlUrl="https://jan.cm/" xmlUrl="http://www.binjoo.net/feed" />
+<outline text="局部变量的作用域" title="局部变量的作用域" type="ssr" htmlUrl="http://www.michaelzhu.com" xmlUrl="http://zbm.xuanwo.tk/feed" />
+<outline text="憩园幽幽的BLOG" title="憩园幽幽的BLOG" type="ssr" htmlUrl="http://blog.sina.com.cn/qiyuanyouyou" xmlUrl="http://blog.sina.com.cn/rss/1185526372.xml" />
+<outline text="我和hacker有个约会" title="我和hacker有个约会" type="ssr" htmlUrl="http://hi.baidu.com/%BA%DA%BF%CD%B7%C0%CF%DF" xmlUrl="http://hi.baidu.com/%BA%DA%BF%CD%B7%C0%CF%DF/rss" />
+<outline text="成功=科学与艺术完美结合" title="成功=科学与艺术完美结合" type="ssr" htmlUrl="http://blog.sina.com.cn/armfans" xmlUrl="http://blog.sina.com.cn/rss/armfans.xml" />
+<outline text="无约而来" title="无约而来" type="ssr" htmlUrl="http://hi.baidu.com/zxkh" xmlUrl="http://hi.baidu.com/zxkh/rss" />
+<outline text="秀色掩今古，荷花羞玉颜" title="秀色掩今古，荷花羞玉颜" type="ssr" htmlUrl="http://blog.sina.com.cn/feir" xmlUrl="http://blog.sina.com.cn/rss/feir.xml" />
+<outline text="白板报" title="白板报" type="ssr" htmlUrl="http://www.wangpei.net" xmlUrl="http://www.baibanbao.net/feed" />
+<outline text="海阔天空" title="海阔天空" type="ssr" htmlUrl="http://hi.baidu.com/bluefire%5Fh" xmlUrl="http://hi.baidu.com/bluefire_h/rss" />
+<outline text="我们都已经长大 好多梦正在飞 就像童年看到的 红色的蜻蜓" title="我们都已经长大 好多梦正在飞 就像童年看到的 红色的蜻蜓" type="ssr" htmlUrl="http://hi.baidu.com/zqy2000zqy" xmlUrl="http://hi.baidu.com/zqy2000zqy/rss" />
+<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="ssr" htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" />
+<outline text="肖舸的专栏" title="肖舸的专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=tonyxiaohome" xmlUrl="http://feeds.feedsky.com/csdn.net/tonyxiaohome" />
+<outline text="肖舸的blog-51CTO技术博客" title="肖舸的blog-51CTO技术博客" type="ssr" htmlUrl="http://tonyxiaohome.blog.51cto.com" xmlUrl="http://tonyxiaohome.blog.51cto.com/rss.php?uid=925273" />
+<outline text="肖舸的新浪博客" title="肖舸的新浪博客" type="ssr" htmlUrl="http://blog.sina.com.cn/tonyxiaohome" xmlUrl="http://blog.sina.com.cn/rss/1357761111.xml" />
+<outline text="编译点滴" title="编译点滴" type="ssr" htmlUrl="http://www.lingcc.com" xmlUrl="http://www.lingcc.com/feed/" />
+<outline text="酷壳 - CoolShell.cn" title="酷壳 - CoolShell.cn" type="ssr" htmlUrl="https://coolshell.cn" xmlUrl="http://coolshell.cn/feed" />
+<outline text="突壳开源社区" title="突壳开源社区" type="ssr" htmlUrl="http://www.tok.cc" xmlUrl="http://www.tok.cc/?feed=rss2" />
+<outline text="记录点滴" title="记录点滴" type="ssr" htmlUrl="http://liupingjing.oldblog.ubuntu.org.cn" xmlUrl="http://liupingjing.oldblog.ubuntu.org.cn/?feed=rss2" />
+<outline text="Dogbert&#x27;s Blog" title="Dogbert&#x27;s Blog" type="ssr" htmlUrl="http://dogber1.blogspot.com/" xmlUrl="http://dogber1.blogspot.com/feeds/posts/default" />
+<outline text="Comtechtor" title="Comtechtor" type="ssr" htmlUrl="http://www.mastersincomputerscience.net" xmlUrl="http://www.mastersincomputerscience.net/feed" />
+<outline text="Linux Toolkits" title="Linux Toolkits" type="ssr" htmlUrl="http://linuxtoolkit.blogspot.com/" xmlUrl="http://linuxtoolkit.blogspot.com/feeds/posts/default" />
+<outline text="何小庆的空间" title="何小庆的空间" type="ssr" htmlUrl="http://allanheeepw.com.cn" xmlUrl="http://allanhe.spaces.eepw.com.cn/space/rss" />
+<outline text="喜熊多的研究室" title="喜熊多的研究室" type="ssr" htmlUrl="http://ray2501.blogspot.com/" xmlUrl="http://ray2501.blogspot.com/feeds/posts/default" />
+<outline text="Rei 的人生笔记" title="Rei 的人生笔记" type="ssr" htmlUrl="http://chloerei.com/atom.xml" xmlUrl="http://chloerei.com/atom.xml" />
+<outline text="Blog.XDite.net" title="Blog.XDite.net" type="ssr" htmlUrl="http://blog.xdite.net" xmlUrl="http://feeds.feedburner.com/xxddite" />
+<outline text="Blog of xishui" title="Blog of xishui" type="ssr" htmlUrl="http://xishuiblog.blogspot.com/" xmlUrl="http://xishuiblog.blogspot.com/feeds/posts/default" />
+<outline text="Blog - GitCafe" title="Blog - GitCafe" type="ssr" htmlUrl="http://blog.gitcafe.com" xmlUrl="http://blog.gitcafe.com/feed" />
+<outline text="Devon Strawn - Tech Notes" title="Devon Strawn - Tech Notes" type="ssr" htmlUrl="http://devonstrawntech.tumblr.com/" xmlUrl="http://devonstrawntech.tumblr.com/rss" />
+<outline text="keakon的涂鸦馆" title="keakon的涂鸦馆" type="ssr" htmlUrl="https://www.keakon.net/" xmlUrl="http://www.keakon.net/feed" />
+<outline text="Kevin" title="Kevin" type="ssr" htmlUrl="http://imkevin.me/blog" xmlUrl="http://imkevin.me/blog/feed" />
+<outline text="Mr./Ms. Days (MMDays) - 網路, 資訊, 觀察, 生活" title="Mr./Ms. Days (MMDays) - 網路, 資訊, 觀察, 生活" type="ssr" htmlUrl="http://mmdays.com" xmlUrl="http://feeds2.feedburner.com/mmdays" />
+<outline text="Miaoo 随笔杂记" title="Miaoo 随笔杂记" type="ssr" htmlUrl="http://miaoo.in" xmlUrl="http://miaoo.in/feed" />
+<outline text="liuhui998" title="liuhui998" type="ssr" htmlUrl="http://liuhui998.com/liuhui998.com/atom.xml" xmlUrl="http://liuhui998.com/atom.xml" />
+<outline text="nickdotcat&#x27;s site" title="nickdotcat&#x27;s site" type="ssr" htmlUrl="http://www.nickdotcat.info" xmlUrl="http://nickdotcat.info/?feed=rss2" />
+<outline text="Zoom.Quiet" title="Zoom.Quiet" type="ssr" htmlUrl="http://blog.zoomquiet.org/pyblosxom" xmlUrl="http://blog.zoomquiet.org/pyblosxom/index.atom" />
+<outline text="xdite&#x27;s smalltalk" title="xdite&#x27;s smalltalk" type="ssr" htmlUrl="http://smalltalk.xdite.net" xmlUrl="http://feeds.feedburner.com/xdite/smalltalk" />
+<outline text="World Hello" title="World Hello" type="ssr" htmlUrl="http://www.worldhello.net/atom.xml" xmlUrl="http://www.worldhello.net/atom.xml" />
+<outline text="winbondowen的专栏" title="winbondowen的专栏" type="ssr" htmlUrl="http://blog.csdn.net/winbondowen/" xmlUrl="http://feeds.feedsky.com/csdn.net/winbondowen" />
+<outline text="《程序员》杂志官网" title="《程序员》杂志官网" type="ssr" htmlUrl="http://programmer.csdn.net" xmlUrl="http://feed.feedsky.com/programmer" />
+<outline text="孟岩" title="孟岩" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=myan" xmlUrl="http://blog.csdn.net/myan/rss.aspx" />
+<outline text="当然我在扯淡" title="当然我在扯淡" type="ssr" htmlUrl="http://blog.sina.com.cn/yinwang0" xmlUrl="http://blog.sina.com.cn/rss/1569777711.xml" />
+<outline text="深秋小院" title="深秋小院" type="ssr" htmlUrl="http://ciciwxf.blog.163.com" xmlUrl="http://ciciwxf.blog.163.com/rss/" />
+<outline text="我的宝贝孙秀楠" title="我的宝贝孙秀楠" type="ssr" htmlUrl="http://sunxiunan.com" xmlUrl="http://sunxiunan.com/?feed=rss2" />
+<outline text="iKnow" title="iKnow" type="ssr" htmlUrl="http://blog.sciencenet.cn/?414166" xmlUrl="http://www.sciencenet.cn/blog/userRSS.aspx?uid=414166" />
+<outline text="赖勇浩的编程私伙局" title="赖勇浩的编程私伙局" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=lanphaday" xmlUrl="http://blog.csdn.net/lanphaday/rss.aspx" />
+<outline text="职场妈妈在IT" title="职场妈妈在IT" type="ssr" htmlUrl="http://blog.sina.com.cn/lilyblack" xmlUrl="http://blog.sina.com.cn/rss/1401313454.xml" />
+<outline text="C语言" title="C语言" type="ssr" htmlUrl="http://chaos.im" xmlUrl="http://chaos.im/feed" />
+<outline text="CE4ALL Windows CE Team Blog" title="CE4ALL Windows CE Team Blog" type="ssr" htmlUrl="http://ce4all.blogspot.com/" xmlUrl="http://ce4all.blogspot.com/feeds/posts/default" />
+<outline text="learn about hacker" title="learn about hacker" type="ssr" htmlUrl="http://tipstrickhacker.blogspot.com/" xmlUrl="http://tipstrickhacker.blogspot.com/feeds/posts/default" />
+<outline text="loveky的一亩三分地" title="loveky的一亩三分地" type="ssr" htmlUrl="http://loveky2012.blogspot.com/" xmlUrl="http://feeds.feedburner.com/Loveky" />
+<outline text="tonymacx86 Blog" title="tonymacx86 Blog" type="ssr" htmlUrl="http://tonymacx86.blogspot.com/" xmlUrl="http://feeds.feedburner.com/Tonymacx86Blog" />
+<outline text="www.pixelbeat.org" title="www.pixelbeat.org" type="ssr" htmlUrl="http://www.pixelbeat.org/" xmlUrl="http://www.pixelbeat.org/feed/rss2.xml" />
+<outline text="點部落-黃忠成" title="點部落-黃忠成" type="ssr" htmlUrl="https://dotblogs.com.tw/code6421/rss" xmlUrl="http://www.dotblogs.com.tw/code6421/Rss.aspx" />
+<outline text="Artima Weblogs" title="Artima Weblogs" type="ssr" htmlUrl="http://www.artima.com/weblogs/" xmlUrl="http://www.artima.com/weblogs/feeds/weblogs.rss" />
+<outline text="Life As An Outlier" title="Life As An Outlier" type="ssr" htmlUrl="http://ioutier.com/atom.xml" xmlUrl="http://ioutlier.com/feed" />
+<outline text="How to Write a Program" title="How to Write a Program" type="ssr" htmlUrl="http://howtowriteaprogram.blogspot.com/" xmlUrl="http://howtowriteaprogram.blogspot.com/feeds/posts/default" />
+<outline text="root @ AIX" title="root @ AIX" type="ssr" htmlUrl="http://aixroot.blogspot.com/" xmlUrl="http://feeds.feedburner.com/blogspot/MhCrh" />
+<outline text="電腦玩物" title="電腦玩物" type="ssr" htmlUrl="http://www.playpcesor.com/" xmlUrl="http://playpcesor.blogspot.com/feeds/posts/default" />
+<outline text="彼岸_JoshuaLuo" title="彼岸_JoshuaLuo" type="ssr" htmlUrl="http://luoty.co.cc" xmlUrl="http://luoty.co.cc/feed" />
+<outline text="博客园_k_eckel&#x27;s mindview" title="博客园_k_eckel&#x27;s mindview" type="ssr" htmlUrl="http://www.cnblogs.com/k-eckel/" xmlUrl="http://feed.cnblogs.com/blog/u/12550/rss" />
+<outline text="penguin" title="penguin" type="ssr" htmlUrl="http://qiujun623.iteye.com" xmlUrl="http://qiujun623.iteye.com/rss" />
+<outline text="demo@virushuo" title="demo@virushuo" type="ssr" htmlUrl="http://blog.devep.net/virushuo/" xmlUrl="http://feeds2.feedburner.com/virushuo" />
+<outline text="并发编程网 - ifeve.com" title="并发编程网 - ifeve.com" type="ssr" htmlUrl="http://ifeve.com" xmlUrl="http://ifeve.com/feed/" />
+<outline text="Babybandf" title="Babybandf" type="ssr" htmlUrl="http://babybandf.blog.163.com" xmlUrl="http://blog.163.com/babybandf/rss/" />
+<outline text="王垠博客" title="王垠博客" type="ssr" htmlUrl="http://www.yinwang.org/" xmlUrl="http://www.yinwang.org/atom.xml" />
+<outline text="阅微堂" title="阅微堂" type="ssr" htmlUrl="http://zhiqiang.org/blog" xmlUrl="http://feeds.feedburner.com/zhiqiang" />
+<outline text="AdvDbg System Section" title="AdvDbg System Section" type="ssr" htmlUrl="http://advdbg.org/blogs/advdbg_system/default.aspx" xmlUrl="http://advdbg.org/blogs/advdbg_system/rss.aspx" />
+<outline text="Dr. Dobb&#x27;s Articles" title="Dr. Dobb&#x27;s Articles" type="ssr" htmlUrl="http://www.drdobbs.com/" xmlUrl="http://www.drdobbs.com/articles/rss" />
+<outline text="Uninformed Journal" title="Uninformed Journal" type="ssr" htmlUrl="http://uninformed.org/" xmlUrl="http://www.uninformed.org/uninformed.rss" />
+<outline text="博客园_ma6174" title="博客园_ma6174" type="ssr" htmlUrl="http://www.cnblogs.com/ma6174/" xmlUrl="http://feed.cnblogs.com/blog/u/102501/rss" />
+<outline text="Teahour.fm" title="Teahour.fm" type="ssr" htmlUrl="http://teahour.fm" xmlUrl="http://teahour.fm/feed.xml" />
+<outline text="大水的专栏" title="大水的专栏" type="ssr" htmlUrl="https://blog.csdn.net/qt4422" xmlUrl="http://blog.csdn.net/qt4422/rss/list" />
+<outline text="T T的记忆" title="T T的记忆" type="ssr" htmlUrl="https://blog.csdn.net/rellikt" xmlUrl="http://blog.csdn.net/rellikt/rss/list" />
+<outline text="Imaginary" title="Imaginary" type="ssr" htmlUrl="http://imaginary.farmostwood.net" xmlUrl="http://imaginary.farmostwood.net/feed" />
+<outline text="Tony Bai" title="Tony Bai" type="ssr" htmlUrl="https://tonybai.com" xmlUrl="http://feed.tonybai.com" />
+<outline text="博客园-......" title="博客园-......" type="ssr" htmlUrl="http://www.cnblogs.com/yc_sunniwell/" xmlUrl="http://www.cnblogs.com/yc_sunniwell/rss.aspx" />
+<outline text="Helicron" title="Helicron" type="ssr" htmlUrl="http://www.helicron.net" xmlUrl="http://www.helicron.net/feed/" />
+<outline text="Hex Blog" title="Hex Blog" type="ssr" htmlUrl="http://www.hexblog.com" xmlUrl="http://www.hexblog.com/?feed=rss2" />
+<outline text="宝剑锋从磨砺出 梅花香自苦寒来" title="宝剑锋从磨砺出 梅花香自苦寒来" type="ssr" htmlUrl="http://aofengblog.blog.163.com" xmlUrl="http://blog.163.com/aofengblog/rss" />
+<outline text="myxmu的专栏" title="myxmu的专栏" type="ssr" htmlUrl="https://blog.csdn.net/myxmu" xmlUrl="http://blog.csdn.net/myxmu/rss/list" />
+<outline text="Manico Blog" title="Manico Blog" type="ssr" htmlUrl="http://blog.manico.im/" xmlUrl="http://blog.manico.im/rss" />
+<outline text="小明明s à domicile" title="小明明s à domicile" type="ssr" htmlUrl="http://www.dongwm.com/atom.xml" xmlUrl="http://www.dongwm.com/atom.xml" />
+<outline text="smalltalk" title="smalltalk" type="ssr" htmlUrl="http://smalltalk.xdite.net/" xmlUrl="http://smalltalk.xdite.net/posts.rss" />
+<outline text="Tiny4Voice" title="Tiny4Voice" type="ssr" htmlUrl="http://tiny4.org/voice" xmlUrl="http://tiny4.org/voice/feed/" />
+<outline text="MacTalk-池建强的随想录" title="MacTalk-池建强的随想录" type="ssr" htmlUrl="http://macshuo.com" xmlUrl="http://macshuo.com/?feed=rss2" />
+<outline text="系统技术非业余研究" title="系统技术非业余研究" type="ssr" htmlUrl="http://blog.yufeng.info" xmlUrl="http://blog.yufeng.info/feed" />
+<outline text="依云&#x27;s Blog" title="依云&#x27;s Blog" type="ssr" htmlUrl="http://lilydjwg.is-programmer.com/" xmlUrl="http://lilydjwg.is-programmer.com/posts.rss" />
+<outline text="宜昌城老张的博客" title="宜昌城老张的博客" type="ssr" htmlUrl="http://www.eefocus.com/zhang700309/blog/" xmlUrl="http://www.eefocus.com/zhang700309/blog/rss" />
+<outline text="搜索技术博客－淘宝" title="搜索技术博客－淘宝" type="ssr" htmlUrl="http://www.searchtb.com" xmlUrl="http://www.searchtb.com/feed" />
+<outline text="弯曲评论" title="弯曲评论" type="ssr" htmlUrl="http://www.valleytalk.org" xmlUrl="http://www.valleytalk.org/feed/" />
+<outline text="Real World Tech" title="Real World Tech" type="ssr" htmlUrl="https://www.realworldtech.com" xmlUrl="http://www.realworldtech.com/feed/" />
+<outline text="Chun Tian (binghe)" title="Chun Tian (binghe)" type="ssr" htmlUrl="http://tianchunbinghe.blog.163.com" xmlUrl="http://tianchunbinghe.blog.163.com/rss/" />
+<outline text="视觉第四维" title="视觉第四维" type="ssr" htmlUrl="http://www.gikidy.com" xmlUrl="http://www.gikidy.com/?feed=rss2" />
+<outline text="Terr Tai&#x27;s Blog" title="Terr Tai&#x27;s Blog" type="ssr" htmlUrl="http://terrytai.me" xmlUrl="http://terrytai.me/rss.xml" />
+<outline text="秋生的博客" title="秋生的博客" type="ssr" htmlUrl="http://blog.163.com/qiusheng_li" xmlUrl="http://blog.163.com/qiusheng_li/rss/" />
+<outline text="swab的博客" title="swab的博客" type="ssr" htmlUrl="http://swab135.blog.163.com" xmlUrl="http://swab135.blog.163.com/rss/" />
+<outline text="Memblaze" title="Memblaze" type="ssr" htmlUrl="https://blog.csdn.net/Memblaze_2011" xmlUrl="http://blog.csdn.net/Memblaze_2011/rss/list" />
+<outline text="Do Great Things - 叶玎玎" title="Do Great Things - 叶玎玎" type="ssr" htmlUrl="http://yedingding.com/" xmlUrl="http://yedingding.com/feed.xml" />
+<outline text="李笑来的博客" title="李笑来的博客" type="ssr" htmlUrl="http://blog.sina.com.cn/bylixiaolai" xmlUrl="http://blog.sina.com.cn/rss/1576218000.xml" />
+<outline text="Write the code, change the world." title="Write the code, change the world." type="ssr" htmlUrl="" xmlUrl="http://feed.cnblogs.com/blog/u/227845/rss" />
+<outline text="K.I.S.S" title="K.I.S.S" type="ssr" htmlUrl="http://qinjian623.github.com/atom.xml" xmlUrl="http://blog.qinjian.me/atom.xml" />
+<outline text="Paul&#x27;s Notes" title="Paul&#x27;s Notes" type="ssr" htmlUrl="https://blog.csdn.net/pan_tian" xmlUrl="http://blog.csdn.net/pan_tian/rss/list" />
+<outline text="Technology – Felix&#x27;s Blog" title="Technology – Felix&#x27;s Blog" type="ssr" htmlUrl="https://blog.felixc.at" xmlUrl="http://feeds.feedburner.com/felixcat" />
+<outline text="易也技术" title="易也技术" type="ssr" htmlUrl="http://www.yiiyee.cn/Blog" xmlUrl="http://www.yiiyee.cn/Blog/feed/" />
+<outline text="Xiaoxia[PG]" title="Xiaoxia[PG]" type="ssr" htmlUrl="http://xiaoxia.org" xmlUrl="http://xiaoxia.org/feed/" /></outline><outline text="Books" title="Books"><outline text="原版图书免费下载" title="原版图书免费下载" type="ssr" htmlUrl="http://www.cnshare.org" xmlUrl="http://www.cnshare.org/index.php/feed" />
+<outline text="皮皮书屋" title="皮皮书屋" type="ssr" htmlUrl="http://www.ppurl.com" xmlUrl="http://www.ppurl.com/feed" />
+<outline text="亦不可子" title="亦不可子" type="ssr" htmlUrl="http://www.e-bookz.cn" xmlUrl="http://www.e-bookz.cn/feed" /></outline><outline text="C.GUN" title="C.GUN"><outline text="I&#x27;m TualatriX" title="I&#x27;m TualatriX" type="ssr" htmlUrl="http://imtx.me/" xmlUrl="http://feeds.feedburner.com/tualatrix" />
+<outline text="Henbin的部落格" title="Henbin的部落格" type="ssr" htmlUrl="http://henbin.blogspot.com/" xmlUrl="http://henbin.blogspot.com/feeds/posts/default" />
+<outline text="iBentu" title="iBentu" type="ssr" htmlUrl="http://www.ibentu.org" xmlUrl="http://www.ibentu.org/feed" />
+<outline text="Advogato blog for mjg59" title="Advogato blog for mjg59" type="ssr" htmlUrl="http://www.advogato.org/person/mjg59/" xmlUrl="http://www.advogato.org/person/mjg59/rss.xml" />
+<outline text="A Smackerel of Opinion" title="A Smackerel of Opinion" type="ssr" htmlUrl="http://smackerelofopinion.blogspot.com/" xmlUrl="http://feeds.feedburner.com/ASmackerelOfOpinion" />
+<outline text="Home" title="Home" type="ssr" htmlUrl="http://beijinglug.org/index.php?option=com_content&amp;view=frontpage" xmlUrl="http://www.beijinglug.org/index.php?format=feed&amp;type=rss" />
+<outline text="ghosTBLOG" title="ghosTBLOG" type="ssr" htmlUrl="http://ghostunix.org/blog" xmlUrl="http://ghostunix.org/blog/?feed=rss2" />
+<outline text="Ubuntu Blog" title="Ubuntu Blog" type="ssr" htmlUrl="http://embraceubuntu.com" xmlUrl="http://embraceubuntu.com/feed/" />
+<outline text="Alex on Linux" title="Alex on Linux" type="ssr" htmlUrl="http://www.alexonlinux.com" xmlUrl="http://www.alexonlinux.com/feed" />
+<outline text="I am LAZY bones ?" title="I am LAZY bones ?" type="ssr" htmlUrl="http://luy.li" xmlUrl="http://luy.li/feed/" />
+<outline text="Full Circle Magazine" title="Full Circle Magazine" type="ssr" htmlUrl="https://fullcirclemagazine.org" xmlUrl="http://fullcirclemagazine.org/feed" />
+<outline text="COSCUP 開源人年會" title="COSCUP 開源人年會" type="ssr" htmlUrl="http://blog.coscup.org/" xmlUrl="http://feeds.feedburner.com/coscup" />
+<outline text="LinuxTOY" title="LinuxTOY" type="ssr" htmlUrl="https://linuxtoy.org/" xmlUrl="http://feeds.feedburner.com/linuxtoy" />
+<outline text="Ubuntu Geek" title="Ubuntu Geek" type="ssr" htmlUrl="http://www.ubuntugeek.com" xmlUrl="http://feeds.feedburner.com/UbuntuGeek" />
+<outline text="Omg! Ubuntu!" title="Omg! Ubuntu!" type="ssr" htmlUrl="http://www.omgubuntu.co.uk" xmlUrl="http://feeds.feedburner.com/d0od" />
+<outline text="Ubuntu One Blog" title="Ubuntu One Blog" type="ssr" htmlUrl="http://voices.canonical.com/ubuntuone" xmlUrl="http://voices.canonical.com/ubuntuone/?feed=rss2" />
+<outline text="仰空冥思" title="仰空冥思" type="ssr" htmlUrl="http://www.lupaworld.com/?uid-26540" xmlUrl="http://www.lupaworld.com/26540/action-rss-type-blog.html" />
+<outline text="奶牛博客" title="奶牛博客" type="ssr" htmlUrl="http://www.nenew.net" xmlUrl="http://feed.feedsky.com/nenew" />
+<outline text="笨兔兔" title="笨兔兔" type="ssr" htmlUrl="http://www.bentutu.com" xmlUrl="http://www.bentutu.com/feed/" />
+<outline text="开源小厨" title="开源小厨" type="ssr" htmlUrl="http://fosschef.com" xmlUrl="http://fosschef.com/feed/" />
+<outline text="肥佳洛的Linux學習網" title="肥佳洛的Linux學習網" type="ssr" htmlUrl="http://figaro.neo-info.net" xmlUrl="http://figaro.neo-info.net/?feed=rss2" />
+<outline text="凍仁的 Ubuntu 筆記" title="凍仁的 Ubuntu 筆記" type="ssr" htmlUrl="http://note.drx.tw/" xmlUrl="http://jonny.ubuntu-tw.net/feeds/posts/default" />
+<outline text="ubuntu system and network administrator" title="ubuntu system and network administrator" type="ssr" htmlUrl="http://allujohnsudhakar.blogspot.com/" xmlUrl="http://allujohnsudhakar.blogspot.com/feeds/posts/default" />
+<outline text="青岛Linux用户组" title="青岛Linux用户组" type="ssr" htmlUrl="http://qingdaolug.org" xmlUrl="http://qingdaolug.org/feed" />
+<outline text="OldLinux" title="OldLinux" type="ssr" htmlUrl="http://www.oldlinux.org/oldlinux/index.php" xmlUrl="http://www.oldlinux.org/oldlinux/rss.php?auth=0" />
+<outline text="blog.xen.org" title="blog.xen.org" type="ssr" htmlUrl="https://blog.xenproject.org" xmlUrl="http://blog.xen.org/index.php/feed/" />
+<outline text="Linux notes- DarkDuck" title="Linux notes- DarkDuck" type="ssr" htmlUrl="http://linuxblog.darkduck.com/" xmlUrl="http://feeds.feedburner.com/LinuxNotesFromDarkduck" />
+<outline text="Linux Tweaking" title="Linux Tweaking" type="ssr" htmlUrl="http://linuxtweaking.blogspot.com/" xmlUrl="http://linuxtweaking.blogspot.com/feeds/posts/default" />
+<outline text="Linux News" title="Linux News" type="ssr" htmlUrl="http://blog.51osos.com" xmlUrl="http://feed.feedsky.com/goface" />
+<outline text="Ubuntusoft" title="Ubuntusoft" type="ssr" htmlUrl="http://www.ubuntusoft.com/forum.php" xmlUrl="http://www.ubuntusoft.com/feed" />
+<outline text="All about Linux" title="All about Linux" type="ssr" htmlUrl="http://www.aboutlinux.info/" xmlUrl="http://feeds.feedburner.com/AllAboutLinux" />
+<outline text="Al&#x27;s Website" title="Al&#x27;s Website" type="ssr" htmlUrl="http://al.robotfuzz.com" xmlUrl="http://al.robotfuzz.com/feed/" />
+<outline text="Ubuntu Home" title="Ubuntu Home" type="ssr" htmlUrl="http://www.ubuntuhome.com" xmlUrl="http://feed.ubuntuhome.com" />
+<outline text="The Architecture of Open Source Applications" title="The Architecture of Open Source Applications" type="ssr" htmlUrl="http://www.aosabook.org/blog" xmlUrl="http://www.aosabook.org/blog/feed/" />
+<outline text="友帮拓" title="友帮拓" type="ssr" htmlUrl="http://www.youbangtuo.net/" xmlUrl="http://www.youbangtuo.net/rss" />
+<outline text="Notebook Blog" title="Notebook Blog" type="ssr" htmlUrl="http://googlenotebookblog.blogspot.com/" xmlUrl="http://feeds.feedburner.com/OfficialGoogleNotebookBlog" />
+<outline text="小葉宅師的自由天空" title="小葉宅師的自由天空" type="ssr" htmlUrl="http://rushbuntu.blogspot.com/" xmlUrl="http://feeds.feedburner.com/blogspot/ASuxu" />
+<outline text="混血摇滚" title="混血摇滚" type="ssr" htmlUrl="http://half-blood-rock.blogspot.com/" xmlUrl="http://feeds.feedburner.com/blogspot/fgXdv" />
+<outline text="手把手玩Ubuntu" title="手把手玩Ubuntu" type="ssr" htmlUrl="http://playubuntu.blogspot.com/" xmlUrl="http://feeds.feedburner.com/blogspot/playerubuntu" />
+<outline text="JeffHung.Blog" title="JeffHung.Blog" type="ssr" htmlUrl="http://www.jeffhung.net/blog" xmlUrl="http://www.jeffhung.net/blog/feed/" />
+<outline text="Ubuntu Weblogs" title="Ubuntu Weblogs" type="ssr" htmlUrl="http://ubuntuweblogs.org" xmlUrl="http://ubuntuweblogs.org/rss20.xml" />
+<outline text="Linux伊甸园" title="Linux伊甸园" type="ssr" htmlUrl="http://www.linuxeden.com" xmlUrl="http://www.linuxeden.com/rss.php" />
+<outline text="Linaro - Open source software for ARM SoCs" title="Linaro - Open source software for ARM SoCs" type="ssr" htmlUrl="https://www.linaro.org" xmlUrl="http://www.linaro.org/linaro-blog/feed/" />
+<outline text="Planet Linux Deepin" title="Planet Linux Deepin" type="ssr" htmlUrl="https://www.deepin.org" xmlUrl="http://planet.linuxdeepin.com/feed/" />
+<outline text="Hacking at 0xlab" title="Hacking at 0xlab" type="ssr" htmlUrl="http://jserv.blogspot.com/" xmlUrl="http://jserv.blogspot.com/feeds/posts/default" /></outline><outline text="C.Microsoft" title="C.Microsoft"><outline text="Mark&#x27;s Blog" title="Mark&#x27;s Blog" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/markrussinovich" xmlUrl="http://blogs.technet.com/markrussinovich/rss.xml" />
+<outline text="Ask the Core Team" title="Ask the Core Team" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/askcore" xmlUrl="http://blogs.technet.com/b/askcore/rss.aspx" />
+<outline text="Inside Windows Live" title="Inside Windows Live" type="ssr" htmlUrl="http://blogs.windows.com/windows_live/b/windowslive/default.aspx" xmlUrl="http://windowsteamblog.com/windows_live/b/windowslive/rss.aspx" />
+<outline text="Channel 9" title="Channel 9" type="ssr" htmlUrl="https://channel9.msdn.com/" xmlUrl="http://channel9.msdn.com/Feeds/RSS" />
+<outline text="Blogging Windows" title="Blogging Windows" type="ssr" htmlUrl="http://blogs.windows.com/bloggingwindows" xmlUrl="http://windowsteamblog.com:80/windows/b/bloggingwindows/rss.aspx" />
+<outline text="Developing for Windows" title="Developing for Windows" type="ssr" htmlUrl="http://windowsteamblog.com/windows/b/developers/default.aspx" xmlUrl="http://windowsteamblog.com/windows/b/developers/rss.aspx" />
+<outline text="Engineering Windows 7" title="Engineering Windows 7" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/e7" xmlUrl="http://blogs.msdn.com/b/e7/rss.aspx" />
+<outline text="IPv6 Blog" title="IPv6 Blog" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/ipv6" xmlUrl="http://blogs.technet.com/b/ipv6/rss.aspx" />
+<outline text="Curious George on TechNet and more..." title="Curious George on TechNet and more..." type="ssr" htmlUrl="https://blogs.technet.microsoft.com/curiousgeorge" xmlUrl="http://blogs.technet.com/b/curiousgeorge/rss.aspx" />
+<outline text="Microsoft BlueHat Blog" title="Microsoft BlueHat Blog" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/bluehat" xmlUrl="http://blogs.technet.com/bluehat/rss.xml" />
+<outline text="MSDN 中文网站" title="MSDN 中文网站" type="ssr" htmlUrl="http://www.cnblogs.com/msdnchina/" xmlUrl="http://www.cnblogs.com/msdnchina/rss.aspx" />
+<outline text="Building Windows 8" title="Building Windows 8" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/b8" xmlUrl="http://blogs.msdn.com/b/b8/rss.aspx" />
+<outline text="New White Papers and Tools on WHDC" title="New White Papers and Tools on WHDC" type="ssr" htmlUrl="http://www.microsoft.com/whdc/resources/atom.aspx" xmlUrl="http://www.microsoft.com/whdc/resources/atom.aspx" />
+<outline text="Site Home" title="Site Home" type="ssr" htmlUrl="http://blogs.msdn.com/" xmlUrl="http://blogs.msdn.com/rss.aspx" />
+<outline text="Ntdebugging Blog" title="Ntdebugging Blog" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/ntdebugging" xmlUrl="http://blogs.msdn.com/b/ntdebugging/rss.aspx" />
+<outline text="Sysinternals" title="Sysinternals" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/sysinternals" xmlUrl="http://blogs.technet.com/b/sysinternals/rss.aspx" />
+<outline text="VolkerW&#x27;s WebLog" title="VolkerW&#x27;s WebLog" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/volkerw" xmlUrl="http://feeds2.feedburner.com/msdn/volkerw" />
+<outline text="Windows Driver Kit (WDK) Documentation Blog" title="Windows Driver Kit (WDK) Documentation Blog" type="ssr" htmlUrl="http://blogs.msdn.com/b/wdkdocs/" xmlUrl="http://blogs.msdn.com/b/wdkdocs/rss.aspx" />
+<outline text="Steve Clayton" title="Steve Clayton" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/stevecla01" xmlUrl="http://feeds.feedburner.com/GeekinDisguise" />
+<outline text="USB Core Team" title="USB Core Team" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/usbcoreblog" xmlUrl="http://blogs.msdn.com/b/usbcoreblog/rss.aspx" />
+<outline text="Technology Treading Lightly" title="Technology Treading Lightly" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/markaggar" xmlUrl="http://blogs.technet.com/b/markaggar/rss.aspx" />
+<outline text="Windows Security Blog" title="Windows Security Blog" type="ssr" htmlUrl="http://windowsteamblog.com/windows/b/windowssecurity/default.aspx" xmlUrl="http://windowsteamblog.com/windows/b/windowssecurity/rss.aspx" />
+<outline text="Windows Partner Blog" title="Windows Partner Blog" type="ssr" htmlUrl="http://windowsteamblog.com/windows/archive/b/partner/default.aspx" xmlUrl="http://windowsteamblog.com/windows/archive/b/partner/rss.aspx" />
+<outline text="Windows Installer Team Blog" title="Windows Installer Team Blog" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/windows_installer_team" xmlUrl="http://blogs.msdn.com/b/windows_installer_team/rss.aspx" />
+<outline text="嵌入式Windows团队中文博客" title="嵌入式Windows团队中文博客" type="ssr" htmlUrl="http://blogs.msdn.com/b/embeddedchina/" xmlUrl="http://blogs.msdn.com/b/embeddedchina/rss.aspx" />
+<outline text="“E7” 欢迎你" title="“E7” 欢迎你" type="ssr" htmlUrl="http://blogs.msdn.com/b/e7cn/" xmlUrl="http://blogs.msdn.com/b/e7cn/rss.aspx" />
+<outline text="SoftwareTeacher" title="SoftwareTeacher" type="ssr" htmlUrl="http://www.cnblogs.com/xinz/" xmlUrl="http://www.cnblogs.com/xinz/rss.aspx" />
+<outline text="Windows 8 app developer blog" title="Windows 8 app developer blog" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/windowsappdev" xmlUrl="http://blogs.msdn.com/b/windowsappdev/rss.aspx" />
+<outline text="Spat&#x27;s WebLog (Steve Patrick)" title="Spat&#x27;s WebLog (Steve Patrick)" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/spatdsg" xmlUrl="http://blogs.msdn.com/b/spatdsg/rss.aspx" />
+<outline text="微软亚洲研究院" title="微软亚洲研究院" type="ssr" htmlUrl="http://blog.sina.com.cn/msra" xmlUrl="http://blog.sina.com.cn/rss/1286528122.xml" />
+<outline text="MessageAnalyzer" title="MessageAnalyzer" type="ssr" htmlUrl="https://blogs.technet.microsoft.com/messageanalyzer" xmlUrl="http://blogs.technet.com/b/messageanalyzer/rss.aspx" />
+<outline text="Windows Hardware Certification blog" title="Windows Hardware Certification blog" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/windows_hardware_certification" xmlUrl="http://blogs.msdn.com/b/windows_hardware_certification/atom.aspx" /></outline><outline text="Data" title="Data"><outline text="ACM Queue - Latest Queue Content" title="ACM Queue - Latest Queue Content" type="ssr" htmlUrl="http://queue.acm.org/" xmlUrl="http://queue.acm.org/rss/feeds/latestitems.xml" />
+<outline text="All Things Distributed" title="All Things Distributed" type="ssr" htmlUrl="http://www.allthingsdistributed.com/atom.xml" xmlUrl="http://www.allthingsdistributed.com/atom.xml" />
+<outline text="Brendan&#x27;s blog" title="Brendan&#x27;s blog" type="ssr" htmlUrl="http://dtrace.org/blogs/brendan" xmlUrl="http://dtrace.org/blogs/brendan/feed/" />
+<outline text="DimitriK&#x27;s (dim) Weblog" title="DimitriK&#x27;s (dim) Weblog" type="ssr" htmlUrl="http://dimitrik.free.fr/blog/" xmlUrl="http://dimitrik.free.fr/blog/rss.xml" />
+<outline text="High Scalability" title="High Scalability" type="ssr" htmlUrl="http://highscalability.com/blog/" xmlUrl="http://feeds.feedburner.com/HighScalability" />
+<outline text="Mechanical Sympathy" title="Mechanical Sympathy" type="ssr" htmlUrl="http://mechanical-sympathy.blogspot.com/" xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" />
+<outline text="Preshing on Programming" title="Preshing on Programming" type="ssr" htmlUrl="http://preshing.com/feed" xmlUrl="http://preshing.com/feed" />
+<outline text="刘未鹏|C++的罗浮宫" title="刘未鹏|C++的罗浮宫" type="ssr" htmlUrl="http://blog.csdn.net/pongba" xmlUrl="http://blog.csdn.net/pongba/rss.aspx" /></outline><outline text="Google" title="Google"><outline text="Gmail Blog" title="Gmail Blog" type="ssr" htmlUrl="http://gmailblog.blogspot.com/" xmlUrl="http://gmailblog.blogspot.com/feeds/posts/default" />
+<outline text="Google 粉丝" title="Google 粉丝" type="ssr" htmlUrl="http://googlef.blogspot.com/" xmlUrl="http://googlef.blogspot.com/feeds/posts/default" />
+<outline text="Blogger Buzz" title="Blogger Buzz" type="ssr" htmlUrl="http://buzz.blogger.com/" xmlUrl="http://buzz.blogger.com/feeds/posts/default" />
+<outline text="Blogs of Note" title="Blogs of Note" type="ssr" htmlUrl="http://blogsofnote.blogspot.com/" xmlUrl="http://blogsofnote.blogspot.com/feeds/posts/default" />
+<outline text="Custom Search Engine" title="Custom Search Engine" type="ssr" htmlUrl="http://customsearch.googleblog.com/" xmlUrl="http://feeds.feedburner.com/blogspot/Syga" />
+<outline text="Google 黑板报 - Google （谷歌）中国的博客网志，走近我们的产品、技术和文化" title="Google 黑板报 - Google （谷歌）中国的博客网志，走近我们的产品、技术和文化" type="ssr" htmlUrl="http://googlechinablog.blogspot.com/" xmlUrl="http://www.google.com.hk/ggblog/googlechinablog/atom.xml" />
+<outline text="Chromium Blog" title="Chromium Blog" type="ssr" htmlUrl="http://blog.chromium.org/" xmlUrl="http://blog.chromium.org/feeds/posts/default" />
+<outline text="chrome os - Google News" title="chrome os - Google News" type="ssr" htmlUrl="https://news.google.com/news?hl=en&amp;ned=us&amp;q=chrome+os" xmlUrl="http://news.google.com/news?um=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=chrome+os&amp;cf=all&amp;output=rss" /></outline><outline text="IT_News" title="IT_News"><outline text="bunnie&#x27;s blog" title="bunnie&#x27;s blog" type="ssr" htmlUrl="https://www.bunniestudios.com/blog" xmlUrl="http://www.bunniestudios.com/blog/?feed=rss2" />
+<outline text="80sec" title="80sec" type="ssr" htmlUrl="http://www.80sec.com" xmlUrl="http://www.80sec.com/feed" />
+<outline text="Eat well, Live better" title="Eat well, Live better" type="ssr" htmlUrl="http://fonfw.blogspot.com/" xmlUrl="http://fonfw.blogspot.com/feeds/posts/default" />
+<outline text="A Hole In My Head" title="A Hole In My Head" type="ssr" htmlUrl="https://blogs.msdn.microsoft.com/doronh" xmlUrl="http://blogs.msdn.com/b/doronh/rss.aspx" />
+<outline text="1st Laptop" title="1st Laptop" type="ssr" htmlUrl="http://1stlaptop.blogspot.com/" xmlUrl="http://feeds.feedburner.com/1stLaptop" />
+<outline text="Another C++ blog" title="Another C++ blog" type="ssr" htmlUrl="http://gburanov.blogspot.com/" xmlUrl="http://gburanov.blogspot.com/feeds/posts/default" />
+<outline text="Fredy Yanardi" title="Fredy Yanardi" type="ssr" htmlUrl="http://fyanardi.wordpress.com" xmlUrl="http://fyanardi.wordpress.com/feed/" />
+<outline text="CoderZh的技术博客" title="CoderZh的技术博客" type="ssr" htmlUrl="http://www.cnblogs.com/coderzh/" xmlUrl="http://www.cnblogs.com/coderzh/rss.aspx" />
+<outline text="36氪" title="36氪" type="ssr" htmlUrl="http://36kr.com" xmlUrl="http://www.36kr.com/feed" />
+<outline text="AMD Business Blog" title="AMD Business Blog" type="ssr" htmlUrl="http://blogs.amd.com/work" xmlUrl="http://blogs.amd.com/work/feed/" />
+<outline text="linuxpk.com" title="linuxpk.com" type="ssr" htmlUrl="http://www.linuxpk.com" xmlUrl="http://www.linuxpk.com/rsswww.php" />
+<outline text="iDragon Wiki" title="iDragon Wiki" type="ssr" htmlUrl="http://www.cublog.cn/u1/34831/" xmlUrl="http://blog.chinaunix.net/u/rss.php?id=34831" />
+<outline text="IT-Standup" title="IT-Standup" type="ssr" htmlUrl="http://itstandup.blogspot.com/" xmlUrl="http://itstandup.blogspot.com/feeds/posts/default" />
+<outline text="Merck&#x27;s Working Holiday" title="Merck&#x27;s Working Holiday" type="ssr" htmlUrl="http://merckhung.blogspot.com/" xmlUrl="http://merckhung.blogspot.com/feeds/posts/default" />
+<outline text="Online Tech Tips" title="Online Tech Tips" type="ssr" htmlUrl="http://www.online-tech-tips.com" xmlUrl="http://feeds.feedburner.com/ComputerTipsFromAComputerGuy" />
+<outline text="善用佳软" title="善用佳软" type="ssr" htmlUrl="https://xbeta.info" xmlUrl="http://feed.xbeta.info" />
+<outline text="softwaresoftware" title="softwaresoftware" type="ssr" htmlUrl="http://softwaresoftware99.blogspot.com/" xmlUrl="http://softwaresoftware99.blogspot.com/feeds/posts/default" />
+<outline text="外刊IT评论" title="外刊IT评论" type="ssr" htmlUrl="http://www.vaikan.com" xmlUrl="http://feed.feedsky.com/aqee-net" />
+<outline text="On Top of Splashtop" title="On Top of Splashtop" type="ssr" htmlUrl="https://www.splashtop.com" xmlUrl="http://feeds.feedburner.com/OnTopOfSplashtop" />
+<outline text="The NVIDIA Blog" title="The NVIDIA Blog" type="ssr" htmlUrl="http://blogs.nvidia.com" xmlUrl="http://feeds.feedburner.com/nTersect" />
+<outline text="一米" title="一米" type="ssr" htmlUrl="http://yimi.in" xmlUrl="http://feed.yimi.in" />
+<outline text="USB-IF Compliance Updates" title="USB-IF Compliance Updates" type="ssr" htmlUrl="http://compliance.usb.org/" xmlUrl="http://compliance.usb.org/usbif_rss.xml" />
+<outline text="小众软件" title="小众软件" type="ssr" htmlUrl="https://www.appinn.com" xmlUrl="http://feed.appinn.com" />
+<outline text="白鸦" title="白鸦" type="ssr" htmlUrl="http://ucdchina.com/baiya" xmlUrl="http://uicom.net/blog/?feed=rss2" />
+<outline text="李承鹏" title="李承鹏" type="ssr" htmlUrl="http://blog.sina.com.cn/lichengpeng" xmlUrl="http://blog.sina.com.cn/rss/lichengpeng.xml" />
+<outline text="异次元软件" title="异次元软件" type="ssr" htmlUrl="https://www.iplaysoft.com" xmlUrl="http://feed.iplaysoft.com" />
+<outline text="天缘博客" title="天缘博客" type="ssr" htmlUrl="http://www.metsky.com/" xmlUrl="http://feed.metsky.com" />
+<outline text="谷奥" title="谷奥" type="ssr" htmlUrl="http://archives.guao.hk" xmlUrl="http://www.google.org.cn/feed" />
+<outline text="嵌入式中国设计" title="嵌入式中国设计" type="ssr" htmlUrl="http://embedchinadesign.spaces.live.com/" xmlUrl="http://cid-8a3b379bd6ccd525.users.api.live.net/Users(-8486127930386361051)/Main?$format=rss20" />
+<outline text="建龍空间" title="建龍空间" type="ssr" htmlUrl="http://wangjianlongmsn.spaces.live.com/" xmlUrl="http://cid-7e795b3f78f5c2d9.users.api.live.net/Users(9113415649131348697)/Main?$format=rss20" />
+<outline text="安顿" title="安顿" type="ssr" htmlUrl="http://user.qzone.qq.com/622007270" xmlUrl="http://feeds.qzone.qq.com/cgi-bin/cgi_rss_out?uin=622007270" />
+<outline text="陈皓专栏" title="陈皓专栏" type="ssr" htmlUrl="http://blog.csdn.net/blogrss.aspx?username=haoel" xmlUrl="http://feeds.feedsky.com/csdn.net/haoel" />
+<outline text="麻省理工《科技创业》" title="麻省理工《科技创业》" type="ssr" htmlUrl="http://www.mittrchinese.com/" xmlUrl="http://www.mittrchinese.com/rssone.php?id=1" />
+<outline text="雨后的彩虹" title="雨后的彩虹" type="ssr" htmlUrl="http://hi.baidu.com/didoyoo" xmlUrl="http://hi.baidu.com/didoyoo/rss" />
+<outline text="TECH2IPO创见" title="TECH2IPO创见" type="ssr" htmlUrl="http://tech2ipo.com" xmlUrl="http://tech2ipo.com/feed" />
+<outline text="MySQLOPS 数据库与运维自动化技术分享" title="MySQLOPS 数据库与运维自动化技术分享" type="ssr" htmlUrl="http://www.mysqlops.com" xmlUrl="http://www.mysqlops.com/feed/rss" />
+<outline text="The Embedded Beat: Freescale Blog Community" title="The Embedded Beat: Freescale Blog Community" type="ssr" htmlUrl="http://blogs.freescale.com" xmlUrl="http://blogs.freescale.com/feed/" />
+<outline text="创业妖" title="创业妖" type="ssr" htmlUrl="http://www.chuangyeyao.com" xmlUrl="http://www.chuangyeyao.com/feed" />
+<outline text="日经技术在线！ -- 工程师的技术支援信息网站" title="日经技术在线！ -- 工程师的技术支援信息网站" type="ssr" htmlUrl="http://china.nikkeibp.com.cn/" xmlUrl="http://china.nikkeibp.com.cn/rss.html" />
+<outline text="虎嗅网" title="虎嗅网" type="ssr" htmlUrl="http://www.huxiu.com/portal.php?mod=list&amp;catid=" xmlUrl="http://www.huxiu.com/rss/user/11343/1f605989e622cbb277976c2a92edc45c.xml" />
+<outline text="DoNews 牛科技" title="DoNews 牛科技" type="ssr" htmlUrl="http://niu.donews.com" xmlUrl="http://niu.donews.com/feed" />
+<outline text="jclin.org" title="jclin.org" type="ssr" htmlUrl="http://jclin.blogspot.com/" xmlUrl="http://feeds.feedburner.com/MbAndMe" />
+<outline text="符碼記憶" title="符碼記憶" type="ssr" htmlUrl="http://www.ewdna.com/" xmlUrl="http://feeds.feedburner.com/blogspot/KMyZN" />
+<outline text="The Official Google Blog" title="The Official Google Blog" type="ssr" htmlUrl="http://googleblog.blogspot.com/" xmlUrl="http://googleblog.blogspot.com/feeds/posts/default" />
+<outline text="极客范 - GeekFan.net" title="极客范 - GeekFan.net" type="ssr" htmlUrl="http://www.geekfan.net" xmlUrl="http://www.geekfan.net/feed/" />
+<outline text="龙芯--百度新闻" title="龙芯--百度新闻" type="ssr" htmlUrl="http://news.baidu.com" xmlUrl="http://news.baidu.com/ns?word=%C1%FA%D0%BE&amp;ie=gb2312&amp;cl=2&amp;rn=20&amp;ct=0&amp;tn=newsrss&amp;class=0" />
+<outline text="CSDN 软件研发频道(资讯)" title="CSDN 软件研发频道(资讯)" type="ssr" htmlUrl="http://sd.csdn.net" xmlUrl="http://sd.csdn.net/rss_sd.html" />
+<outline text="Sina App Engine Blog" title="Sina App Engine Blog" type="ssr" htmlUrl="http://blog.sae.sina.com.cn" xmlUrl="http://blog.sae.sina.com.cn/feed" />
+<outline text="cnBeta.COM业界资讯" title="cnBeta.COM业界资讯" type="ssr" htmlUrl="http://www.cnbeta.com" xmlUrl="http://rss.cnbeta.com/rss" />
+<outline text="N软网" title="N软网" type="ssr" htmlUrl="https://www.nruan.com" xmlUrl="http://www.nruan.com/feed" />
+<outline text="" title="" type="ssr" htmlUrl="" xmlUrl="" />
+<outline text="Hardware Secrets" title="Hardware Secrets" type="ssr" htmlUrl="https://www.hardwaresecrets.com" xmlUrl="http://www.hardwaresecrets.com/feed/" />
+<outline text="Solidot" title="Solidot" type="ssr" htmlUrl="https://www.solidot.org" xmlUrl="http://www.solidot.org/index.rss" /></outline><outline text="Intel" title="Intel"><outline text="Blogs@Intel" title="Blogs@Intel" type="ssr" htmlUrl="http://blogs.intel.com/" xmlUrl="http://blogs.intel.com/atom.xml" />
+<outline text="Intel Press Room" title="Intel Press Room" type="ssr" htmlUrl="http://newsroom.intel.com/community/intel_newsroom?view=blog" xmlUrl="http://rss.intel.com/rss/intel-pressroom.xml" />
+<outline text="Intel Software Network - Main Articles Feed" title="Intel Software Network - Main Articles Feed" type="ssr" htmlUrl="https://software.intel.com/en-us/articles" xmlUrl="http://feeds.feedburner.com/ISNMain" />
+<outline text="Intel Software Network Blogs ? Taylor Kidd (Intel)" title="Intel Software Network Blogs ? Taylor Kidd (Intel)" type="ssr" htmlUrl="http://software.intel.com/en-us/blogs" xmlUrl="http://software.intel.com/en-us/blogs/author/taylor-kidd/feed" />
+<outline text="Intel Software Network Blogs" title="Intel Software Network Blogs" type="ssr" htmlUrl="https://software.intel.com/en-us/blogs/all" xmlUrl="http://feeds.feedburner.com/IntelSoftwareNetworkBlog" />
+<outline text="Intel Architecture Blog" title="Intel Architecture Blog" type="ssr" htmlUrl="http://community.edc.intel.com/t5/New-to-Intel-Architecture-Blog/bg-p/NTIAB" xmlUrl="http://community.edc.intel.com/intel/rss/board?board.id=NTIAB" />
+<outline text="Intel Embedded Design Center" title="Intel Embedded Design Center" type="ssr" htmlUrl="http://edc.intel.com/" xmlUrl="http://edc.intel.com/RSS/Feed.aspx" />
+<outline text="英特尔软件网络" title="英特尔软件网络" type="ssr" htmlUrl="https://software.intel.com/zh-cn/blogs/all" xmlUrl="http://software.intel.com/zh-cn/blogs/feed/" />
+<outline text="英特尔开放源代码" title="英特尔开放源代码" type="ssr" htmlUrl="http://software.intel.com/zh-cn/blogs" xmlUrl="http://software.intel.com/zh-cn/blogs/category/open-source/feed/" />
+<outline text="News Stories" title="News Stories" type="ssr" htmlUrl="http://newsroom.intel.com/community/intel_newsroom/blog" xmlUrl="http://newsroom.intel.com/community/intel_newsroom/blog/feeds/posts" />
+<outline text="英特尔与你共创明天的博客" title="英特尔与你共创明天的博客" type="ssr" htmlUrl="http://www.eefocus.com/intelin/blog/" xmlUrl="http://www.eefocus.com/intelin/blog/rss" />
+<outline text="Intel - Google 新闻" title="Intel - Google 新闻" type="ssr" htmlUrl="http://news.google.com/news?hl=zh-CN&amp;ned=cn&amp;q=Intel" xmlUrl="http://news.google.com/news?hl=zh-CN&amp;ned=cn&amp;q=Intel&amp;ie=UTF-8&amp;output=rss" /></outline><outline text="Kindle" title="Kindle"><outline text="水边树木笔记 v4.0" title="水边树木笔记 v4.0" type="ssr" htmlUrl="http://www.likk.com/blog" xmlUrl="http://www.likk.com/blog/feed" /></outline><outline text="Python" title="Python"><outline text="Guido van Rossum&#x27;s Weblog" title="Guido van Rossum&#x27;s Weblog" type="ssr" htmlUrl="http://www.artima.com/weblogs/index.jsp?blogger=guido" xmlUrl="http://www.artima.com/weblogs/feeds/bloggers/guido.rss" />
+<outline text="iTech&#x27;s Blog" title="iTech&#x27;s Blog" type="ssr" htmlUrl="http://www.cnblogs.com/itech/" xmlUrl="http://www.cnblogs.com/itech/rss.aspx" />
+<outline text="Python" title="Python" type="ssr" htmlUrl="http://python365.blogbus.com" xmlUrl="http://python365.blogbus.com/index.rdf" />
+<outline text="Houge&#x27;s Madness Life" title="Houge&#x27;s Madness Life" type="ssr" htmlUrl="http://hougeubuntu.blogspot.com/" xmlUrl="http://hougeubuntu.blogspot.com/feeds/posts/default" />
+<outline text="Ghoul To World!" title="Ghoul To World!" type="ssr" htmlUrl="http://www.g2w.me/" xmlUrl="http://feed.g2w.me" />
+<outline text="Socrates的专栏" title="Socrates的专栏" type="ssr" htmlUrl="https://blog.csdn.net/dyx1024" xmlUrl="http://blog.csdn.net/dyx1024/rss/list" />
+<outline text="kure6-51CTO技术博客" title="kure6-51CTO技术博客" type="ssr" htmlUrl="http://kure6.blog.51cto.com" xmlUrl="http://kure6.blog.51cto.com/rss.php?uid=2398286" />
+<outline text="The PyCon blog" title="The PyCon blog" type="ssr" htmlUrl="http://pycon.blogspot.com/" xmlUrl="http://pycon.blogspot.com/feeds/posts/default" />
+<outline text="成长的点滴，记录与分享" title="成长的点滴，记录与分享" type="ssr" htmlUrl="http://blog.csdn.net/jgood" xmlUrl="http://blog.csdn.net/JGood/rss/list" />
+<outline text="~~北洋数码果园~~" title="~~北洋数码果园~~" type="ssr" htmlUrl="http://peiyangorchard.blogspot.com/" xmlUrl="http://peiyangorchard.blogspot.com/feeds/posts/default" />
+<outline text="Leo Spidian" title="Leo Spidian" type="ssr" htmlUrl="http://leospidian.blogspot.com/" xmlUrl="http://leospidian.blogspot.com/feeds/posts/default" />
+<outline text="life is short - you need Python!" title="life is short - you need Python!" type="ssr" htmlUrl="http://love-python.blogspot.com/" xmlUrl="http://feeds.feedburner.com/LifeIsShort-YouNeedPython" />
+<outline text="Python" title="Python" type="ssr" htmlUrl="http://staypython.blogspot.com/" xmlUrl="http://staypython.blogspot.com/feeds/posts/default" />
+<outline text="程式語言教學誌" title="程式語言教學誌" type="ssr" htmlUrl="http://pydoing.blogspot.com/" xmlUrl="http://pydoing.blogspot.com/feeds/posts/default" />
+<outline text="博客园_我是一块砖" title="博客园_我是一块砖" type="ssr" htmlUrl="http://www.cnblogs.com/twelfthing/" xmlUrl="http://feed.cnblogs.com/blog/u/71865/rss" />
+<outline text="SAEPy blog" title="SAEPy blog" type="ssr" htmlUrl="http://saepy.sinaapp.com/feed" xmlUrl="http://saepy.sinaapp.com/feed" />
+<outline text="the5fire的技术博客" title="the5fire的技术博客" type="ssr" htmlUrl="https://www.the5fire.com" xmlUrl="http://www.the5fire.com/rss/" />
+<outline text="王伟-51CTO技术博客" title="王伟-51CTO技术博客" type="ssr" htmlUrl="http://wangwei007.blog.51cto.com" xmlUrl="http://wangwei007.blog.51cto.com/rss.php?uid=68019" /></outline><outline text="ZZZ" title="ZZZ"><outline text="《读者·原创版》" title="《读者·原创版》" type="ssr" htmlUrl="http://blog.sina.com.cn/dzycb" xmlUrl="http://blog.sina.com.cn/myblog/index_rss.php?uid=1196045711" />
+<outline text="张晓楠的博客" title="张晓楠的博客" type="ssr" htmlUrl="http://blog.sina.com.cn/zhangxiaonan92" xmlUrl="http://blog.sina.com.cn/rss/zhangxiaonan92.xml" />
+<outline text="@ 春天的茉莉 @" title="@ 春天的茉莉 @" type="ssr" htmlUrl="http://wqiwqi.blogspot.com/" xmlUrl="http://wqiwqi.blogspot.com/feeds/posts/default" /></outline><outline text="apple" title="apple"><outline text="ibuick.me | ibuick.me" title="ibuick.me | ibuick.me" type="ssr" htmlUrl="http://ibuick.me" xmlUrl="http://ibuick.me/?feed=rss2" />
+<outline text="Apple4us" title="Apple4us" type="ssr" htmlUrl="https://apple4us.com/feed.xml" xmlUrl="http://apple4.us/feed" /></outline><outline text="debug" title="debug"><outline text="DbgTech&#x27;s blog" title="DbgTech&#x27;s blog" type="ssr" htmlUrl="http://www.dbgtech.net:81/blog/" xmlUrl="http://www.dbgtech.net/blog/rss.php" />
+<outline text="看雪安全论坛 - 『软件调试论坛』" title="看雪安全论坛 - 『软件调试论坛』" type="ssr" htmlUrl="http://bbs.pediy.com/" xmlUrl="http://bbs.pediy.com/external.php?type=RSS2&amp;forumids=4" />
+<outline text="DCS" title="DCS" type="ssr" htmlUrl="http://www.fjnpc.cn" xmlUrl="http://feed.feedsky.com/DCS_tl8q" />
+<outline text="调试_搜搜新闻搜索" title="调试_搜搜新闻搜索" type="ssr" htmlUrl="http://news.soso.com/n.q?ie=utf-8&amp;sc=news&amp;pid=n.idx&amp;w=����" xmlUrl="http://vdap.soso.com/rss?w=%B5%F7%CA%D4" /></outline><outline text="eBook" title="eBook"><outline text="The eBook Reader Blog" title="The eBook Reader Blog" type="ssr" htmlUrl="https://blog.the-ebook-reader.com" xmlUrl="http://feeds.the-ebook-reader.com/feedburner/cmWU" /></outline><outline text="嵌入式" title="嵌入式"><outline text="单片机与嵌入式系统应用-CNKI" title="单片机与嵌入式系统应用-CNKI" type="ssr" htmlUrl="http://kns.cnki.net/kcms/detail/" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=DPJY&amp;Virtual=grid20" />
+<outline text="嵌入式测试" title="嵌入式测试" type="ssr" htmlUrl="http://www.fengfly.com/html/softeng/softtest/embedded/" xmlUrl="http://www.fengfly.com/data/rss/405.xml" /></outline></body></opml>
